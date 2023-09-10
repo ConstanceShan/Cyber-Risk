@@ -1,0 +1,15 @@
+Panel a,,,,,,,,
+Percent of countries with a data governance entity,,,,,,Count,,
+,In progress/planned,Established,,,,In progress/planned,Established,Number of countries
+Low income countries,0,0,,,,0,0,29
+Lower middle income countries,4,10,,,,2,5,50
+Upper middle income countries,7,18,,,,4,10,55
+High income countries,8,53,,,,5,34,64
+,,,,,,,,
+,,,,,,,,
+Panel b,,,,,,,,
+Data governance entity type,,,,,,Count,,
+,Part of another government instiution,Separate data governace agency,,,,Part of another government instiution,Separate data governace agency,Number of countries with (In progress or Established)
+Lower middle income countries,100,0,,,,7,0,7
+Upper middle income countries,71,29,,,,10,4,14
+High income countries,44,56,,,,17,22,39
